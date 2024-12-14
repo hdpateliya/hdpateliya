@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hdpateliya
+- 👋 Hi, I’m Hardik
 - 👀 I’m interested in Work with php frameworks
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Projects
+- 🌱 I’m currently working as a Head of Tech & Innovation at the Widget Wing IT Services
 - 📫 How to reach me hdpateliya@gmail.com
 
 <!---
